@@ -1,0 +1,38 @@
+id,Month,Category,Satisfaction Rating
+1,January,Residential ,0.75
+2,February,Residential ,0.72
+3,March,Key Accounts,0.84
+4,April,Residential ,0.76
+5,May,Residential ,0.73
+6,June,Residential ,0.74
+7,February,Residential ,0.69
+8,February,Residential ,0.68
+9,July,Residential ,0.64
+10,April,Residential ,0.68
+11,March,Residential ,0.74
+12,March,Residential,0.63
+13,March,Key Accounts,0.84
+14,March,Commercial ,0.83
+15,March,Commercial ,0.84
+16,July,Key Accounts,0.86
+17,April,Commercial ,0.76
+18,April,Key Accounts,0.75
+19,July,Commercial ,0.78
+20,July,Key Accounts,0.60
+21,May,Commercial ,0.68
+22,May,Key Accounts,0.76
+23,June,Commercial ,0.62
+24,February,Key Accounts,0.55
+25,May,Commercial ,0.61
+26,July,Key Accounts,0.69
+27,June,Commercial ,0.58
+28,July,Key Accounts,0.55
+29,July,Commercial ,0.59
+30,June,Key Accounts,0.55
+31,July,Key Accounts,0.62
+32,May,Commercial,0.59
+33,June,Commercial ,0.81
+34,June,Residential,0.80
+35,June,Commercial,0.71
+36,April,Key Accounts,0.86
+37,February,Target Satisfaction Rating,0.75
